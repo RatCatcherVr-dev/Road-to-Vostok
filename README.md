@@ -1,7 +1,7 @@
 # Road to Vostok Decompilation & Preservation 🚧
 
 <p align="center">
-  <g-emoji class="g-emoji" alias="star">⭐</g-emoji> <strong>An advanced reverse-engineering and preservation project for Road to Vostok!</strong> <g-emoji class="g-emoji" alias="star">⭐</g-emoji>
+  ⭐ <strong>An advanced reverse-engineering and preservation project for Road to Vostok!</strong> ⭐
 </p>
 
 <p align="center">
@@ -40,11 +40,12 @@ This project is structured to encourage community modding, standalone performanc
 
 ## ⚠️ Legal Disclaimer
 
-> \\\[!WARNING]
+> [!WARNING]
 > ### Strictly Anti-Piracy
-> This project is intended \\\*\\\*solely for educational, research, and modding purposes\\\*\\\*. We do not support, condone, or facilitate piracy in any form. 
 > 
-> To utilize or interact with this repository, you \\\*\\\*must own a legitimate, legally acquired copy\\\*\\\* of Road to Vostok or have verified access to its public testing alphas. No commercial game assets are hosted here to breach copyright protocols.
+> This project is intended **solely for educational, research, and modding purposes**. We do not support, condone, or facilitate piracy in any form. 
+> 
+> To utilize or interact with this repository, you **must own a legitimate, legally acquired copy** of Road to Vostok or have verified access to its public testing alphas. No commercial game assets are hosted here to breach copyright protocols.
 
 ---
 
